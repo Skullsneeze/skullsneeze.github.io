@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Martijn Swinkels
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martijn_Swinkels-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/martijn-swinkels/)
-[![GitHub](https://img.shields.io/github/followers/martijnswinkels?label=Follow&style=social)](https://github.com/skullsneeze)
+[![GitHub](https://img.shields.io/github/followers/martijnswinkels?label=Follow&style=social)](https://github.com/Skullsneeze)
 
 ---
 
