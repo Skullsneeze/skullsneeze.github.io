@@ -27,7 +27,7 @@ My work blends **craftsmanship**, **efficiency**, and a bit of curiosity for how
 
 ### 🧪 Current Projects
 
-- **[SShop](https://github.com/martijnswinkels/sshop)** — A CLI tool to hop between SSH environments with ease  
+- **[SShop](https://github.com/skullsneeze/sshop)** — A CLI tool to hop between SSH environments with ease  
 - **The Curse of Continuity** — A cinematic music album in progress  
 - Ongoing experiments with productivity tools
 
